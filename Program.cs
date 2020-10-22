@@ -13,7 +13,7 @@ namespace GitTest
            // Console.WriteLine("Some random things Just trying git");
             for(int i = 1; i <= 10; i++)
             {
-                Console.WriteLine("{0}^2 = {1}0,", i, i * i);
+                Console.WriteLine("{0}^3 = {1}0,", i, i * i * i);
             }
         }
     }
